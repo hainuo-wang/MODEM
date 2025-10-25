@@ -67,9 +67,9 @@ Table: Comparison of perceptual metrics, including referenced (LPIPS↓) and non
 | WeatherDiff | 3.4531 | 3.5293 | 3.8691 | 4.0000 | 3.4512 |
 | MODEM (Ours) | **3.7324** | **3.7695** | **4.1875** | **4.0664** | **3.5586** |
 | **MUSIQ** | | | | | |
-| Histoformer | **64.2526** | **64.2581** | 67.7461 | 68.4582 | 59.4040 |
+| Histoformer | **64.2526** | 64.2581 | 67.7461 | 68.4582 | 59.4040 |
 | WeatherDiff | 62.6267 | 63.1729 | 67.4814 | 69.3608 | 59.4493 |
-| MODEM (Ours) | 64.2438 | 64.2853 | **68.2926** | **69.7925** | **59.6042** |
+| MODEM (Ours) | 64.2438 | **64.2853** | **68.2926** | **69.7925** | **59.6042** |
 
 Table: Comparison of different methods on various real-world datasets using the Q-Align metric.
 
