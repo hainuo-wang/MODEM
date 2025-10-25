@@ -144,14 +144,19 @@ python test.py --ckpt_path /path/to/your/checkpoint.pth \
 
 The script will save the restored images and print the average PSNR and SSIM values.
 
-<!-- ## 📝 Citation
+## 📝 Citation
 
 If you find this work useful for your research, please cite our paper:
 
 ```bibtex
-@inproceedings{modem2025,
+@article{wang2025modem,
   title={MODEM: A Morton-Order Degradation Estimation Mechanism for Adverse Weather Image Recovery},
-  author={Author 1 and Author 2 and Author 3},
-  booktitle={Advances in Neural Information Processing Systems},
+  author={Wang, Hainuo and Hu, Qiming and Guo, Xiaojie},
+  journal={arXiv preprint arXiv:2505.17581},
   year={2025}
-} -->
+}
+```
+
+## 🙏 Acknowledgement
+
+We would like to thank [Mingjia Li](https://github.com/lime-j ) for the insightful discussions and feedback. We are grateful for the computational resource support provided by Google's TPU Research Cloud.
