@@ -159,4 +159,4 @@ If you find this work useful for your research, please cite our paper:
 
 ## 🙏 Acknowledgement
 
-We would like to thank [Mingjia Li](https://github.com/lime-j ) for the insightful discussions and feedback. We are grateful for the computational resource support provided by Google's TPU Research Cloud.
+We would like to thank [Mingjia Li](https://github.com/lime-j ) for the insightful discussions and feedback. We are grateful for the computational resource support provided by Google's TPU Research Cloud. This code is based on the [BasicSR](https://github.com/XPixelGroup/BasicSR), [MambaIR](https://github.com/csguoh/MambaIR), [VMamba](https://github.com/MzeroMiko/VMamba) and [Histoformer](https://github.com/sunshangquan/Histoformer). Thanks for their awesome work.
