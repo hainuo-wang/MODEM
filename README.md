@@ -129,7 +129,7 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 \
 OMP_NUM_THREADS=4 torchrun --nproc_per_node=4 --master_port=4323 basicsr/train.py -opt options/modem_stage2.yml --launcher pytorch
 ```
 
-Before running, you may need to adjust the `CUDA_VISIBLE_DEVICES` and other parameters in the script and the configuration file (`options/modem_stage2.yml` or `options/modem_stage2.yml`) according to your setup.
+Before running, you may need to adjust the `CUDA_VISIBLE_DEVICES` and other parameters in the script and the configuration file (`options/modem_stage2.yml` or `options/modem_stage2.yml`) according to your setup. According to our configuration file, you need 4 GPUs for training. (We used 4 NVIDIA RTX 3090.)
 
 ## ✅ Testing
 
