@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>[NeurIPS 2025] MODEM: A Morton-Order Degradation Estimation Mechanism for Adverse Weather Image Recovery</h2>
+  <h1>[NeurIPS 2025] MODEM: A Morton-Order Degradation Estimation Mechanism for Adverse Weather Image Recovery</h1>
   Offical implementation for "MODEM: A Morton-Order Degradation Estimation Mechanism for Adverse Weather Image Recovery".
   <br>
   <a href="https://neurips.cc/virtual/2025/poster/115258"><img src="https://img.shields.io/badge/NeurIPS-Paper-red" alt="Paper"></a>
