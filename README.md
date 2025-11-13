@@ -5,6 +5,7 @@
   <a href="https://neurips.cc/virtual/2025/poster/115258"><img src="https://img.shields.io/badge/NeurIPS-Paper-red" alt="Paper"></a>
   <a href="https://arxiv.org/abs/2505.17581"><img src="https://img.shields.io/badge/arXiv-2505.17581-b31b1b.svg" alt="arXiv"></a>
   <a href="https://neurips.cc/virtual/2025/poster/115258"><img src="https://img.shields.io/badge/NeurIPS-Poster-blue" alt="Poster"></a>
+  <a href="https://neurips.cc/media/neurips-2025/Slides/115258.pdf"><img src="https://img.shields.io/badge/NeurIPS-Slides-ff69b4" alt="Slides"></a>
   <br>
   <a href="https://scholar.google.com/citations?user=Z2RcbF4AAAAJ&hl">Hainuo Wang</a> •
   <a href="https://scholar.google.com/citations?user=4zasPbwAAAAJ&hl">Qiming Hu</a> •
