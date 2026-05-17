@@ -150,11 +150,13 @@ The script will save the restored images and print the average PSNR and SSIM val
 If you find this work useful for your research, please cite our paper:
 
 ```bibtex
-@article{wang2025modem,
-  title={MODEM: A Morton-Order Degradation Estimation Mechanism for Adverse Weather Image Recovery},
+@article{wang2026modem,
+  title={MODEM: A morton-order degradation estimation mechanism for adverse weather image recovery},
   author={Wang, Hainuo and Hu, Qiming and Guo, Xiaojie},
-  journal={arXiv preprint arXiv:2505.17581},
-  year={2025}
+  journal={Advances in Neural Information Processing Systems},
+  volume={38},
+  pages={47410--47439},
+  year={2026}
 }
 ```
 
